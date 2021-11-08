@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @pheap
-- 👀 I’m interested in Crypto.
-- 🌱 I’m currently learning "Full Stack Development using MERN"
+- 🌱 I’m currently doing online MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN.
