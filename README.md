@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @pheap
-- 🌱 I’m currently doing online MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN.
+- 🌱 Working to become an Artificial Intelligence (AI) Engineer / Machine Learning Engineer / Software Engineer
